@@ -1,0 +1,31 @@
+// import { useState } from 'react';  
+  
+  
+  // const [data, setData] = useState(10);
+
+  // const name = (val) => {
+  //   setData(data+val);
+  // }
+
+  // const name2 = (val) => {
+  //   setData(data-val);
+  // }
+  // return (
+  //   // <Other />
+  //   <>
+  //     <div>Value:{data}</div>
+
+  //     <button onClick={() => setData(data + 10)}>Increament</button>
+  //     <button onClick={() => setData(data - 10)}>Decreament</button>
+  //     <button onClick={() => name(20)}>INCREAS</button>
+  //     <button onClick={() => name2(20)}>DECREAS</button>
+  //   
+  // );
+
+
+  // const [data, setData] = useState(10);
+  // return (
+  //   <div>Value:{data}</div>
+  //   <button onClick={() => setData(prevState => prevState+1)}>More</button>
+  //   <button onClick={() => setData(prevState => prevState-1)}>Less</button>
+  // )
